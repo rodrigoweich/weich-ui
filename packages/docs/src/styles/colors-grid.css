@@ -1,0 +1,13 @@
+.select-all {
+  user-select: all;
+}
+
+.colors-grid div:first-child {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.colors-grid div:last-child {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}

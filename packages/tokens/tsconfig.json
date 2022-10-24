@@ -1,0 +1,4 @@
+{
+  "extends": "@w-ui/ts-config/base.json",
+  "include": ["src"]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@rdgwti-ui/ts-config",
+  "version": "1.0.0",
+  "description": "W-UI Typescript configuration",
+  "author": "Rodrigo Gomes Weich",
+  "license": "ISC",
+  "private": true
+}
