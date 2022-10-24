@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@w-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@weich-ui/react'
 import { EnvelopeSimple } from 'phosphor-react'
 
 export default {

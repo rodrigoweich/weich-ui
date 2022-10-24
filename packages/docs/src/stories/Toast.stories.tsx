@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Toast, ToastProps } from '@w-ui/react'
+import { Toast, ToastProps } from '@weich-ui/react'
 
 export default {
   title: 'Data Display/Toast',

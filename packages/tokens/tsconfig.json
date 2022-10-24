@@ -1,4 +1,4 @@
 {
-  "extends": "@w-ui/ts-config/base.json",
+  "extends": "@weich-ui/ts-config/base.json",
   "include": ["src"]
 }

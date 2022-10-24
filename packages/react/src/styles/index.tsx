@@ -13,7 +13,7 @@ import {
   transitions,
   borderWidths,
   borderStyles,
-} from '@w-ui/tokens'
+} from '@weich-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

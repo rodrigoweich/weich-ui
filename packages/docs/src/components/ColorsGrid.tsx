@@ -1,4 +1,4 @@
-import { colors } from '@w-ui/tokens'
+import { colors } from '@weich-ui/tokens'
 import { getContrast } from 'polished'
 import '../styles/colors-grid.css'
 

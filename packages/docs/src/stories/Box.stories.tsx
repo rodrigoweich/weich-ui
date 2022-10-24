@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, BoxProps, Text } from '@w-ui/react'
+import { Box, BoxProps, Text } from '@weich-ui/react'
 
 export default {
   title: 'Surfaces/Box',
