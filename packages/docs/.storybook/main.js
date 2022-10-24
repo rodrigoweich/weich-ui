@@ -18,7 +18,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/w-ui/'
+      config.base = '/weich-ui/'
     }
 
     return config
