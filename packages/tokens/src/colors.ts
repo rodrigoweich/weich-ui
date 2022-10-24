@@ -42,4 +42,10 @@ export const colors = {
   'violet-base': '#a855f7',
   'violet-dark': '#7e22ce',
   'violet-low': '#581c87',
+
+  'cyan-high': '#cffafe',
+  'cyan-light': '#67e8f9',
+  'cyan-base': '#06b6d4',
+  'cyan-dark': '#0e7490',
+  'cyan-low': '#164e63',
 }
