@@ -1,0 +1,2 @@
+import{A as t}from"./index.e749e365.js";import"./index.0d4713a7.js";import"./iframe.211eaaa7.js";import"./index.f6fb8e67.js";import"./jsx-runtime.0005f2a7.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/rodrigoweich.png",alt:"Rodrigo Weich"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.e6978256.js.map
