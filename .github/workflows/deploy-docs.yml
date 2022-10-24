@@ -24,6 +24,7 @@ jobs:
       - run: npm run build
         env:
           TURBO_TOKEN: gvKIMDTOQpO4iHsooXbXAUAH
+          TURBO_TEAM: weich-ui
 
       - name: Deploy storybook
         working-directory: ./packages/docs
